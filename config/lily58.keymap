@@ -47,8 +47,6 @@
 &mt LEFT_SHIFT LEFT_PARENTHESIS  &kp Z   &kp X   &kp C     &kp V     &kp B      &lt 1 LEFT_BRACKET    &lt 1 RIGHT_BRACKET  &kp N          &kp M              &kp COMMA  &kp DOT  &kp FSLH  &mt RIGHT_SHIFT RIGHT_PARENTHESIS
                                                  &kp LGUI  &kp LALT  &kp LCTRL  &kp BACKSPACE         &kp SPACE            &kp RIGHT_GUI  &kp RIGHT_CONTROL  &kp EQUAL
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         lower_layer {
